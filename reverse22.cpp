@@ -1,3 +1,4 @@
+//Swapping first number to last number.
 #include<stdio.h>
 main(){
 	int a;
